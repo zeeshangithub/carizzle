@@ -1,0 +1,63 @@
+﻿.header {
+    background:#f4f5f6;
+}
+.header  .header-content {
+
+}
+.header  .header-content .navigation {
+    border:none;
+    padding:0;
+    margin:0;
+    background:#f4f5f6;
+    text-align:center;
+}
+.header  .header-content .navigation ul li{
+      padding: 0 66px 0 66px;
+  text-transform: uppercase;
+  border-bottom:4px solid #f4f5f6;
+}
+/*.header  .header-content .navigation ul li a{
+    border-right:1px solid red;
+}*/
+    .header .header-content .navigation ul li:hover {
+    border-bottom:4px solid #a7aaac;
+    }
+
+    .logo-section{
+       
+          background-color: #1a82f7;
+  background-image: url(images/linear_bg_1.png);
+  background-repeat: repeat-y;
+
+  /* Safari 4-5, Chrome 1-9 */
+  background: -webkit-gradient(linear, left top, right top, from(#1a82f7), to(#2F2727));
+
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(right, #ac1f25, #ec2c31);
+
+  /* Firefox 3.6+ */
+  background: -moz-linear-gradient(right, #ac1f25, #ec2c31);
+
+  /* IE 10 */
+  background: -ms-linear-gradient(right, #ac1f25, #ec2c31);
+
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(right, #ac1f25, #ec2c31);
+    }
+.logo-section .logo-section-content {
+
+
+}
+.logo-section .logo-section-content h1{
+padding: 7px 0 0 0;
+margin:0;
+color:white;
+font-size:50px;
+}
+.logo-section .logo-section-content span{
+    color: white;
+  font-size: 13px;
+  position: relative;
+  bottom: 11px;
+  left: 4px;
+}

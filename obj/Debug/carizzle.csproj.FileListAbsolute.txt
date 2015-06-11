@@ -1,0 +1,12 @@
+C:\Users\ch shan\documents\visual studio 2013\Test\carizzle\carizzle\bin\carizzle.dll.config
+C:\Users\ch shan\documents\visual studio 2013\Test\carizzle\carizzle\bin\carizzle.dll
+C:\Users\ch shan\documents\visual studio 2013\Test\carizzle\carizzle\bin\carizzle.pdb
+C:\Users\ch shan\documents\visual studio 2013\Test\carizzle\carizzle\obj\Debug\carizzle.csprojResolveAssemblyReference.cache
+C:\Users\ch shan\documents\visual studio 2013\Test\carizzle\carizzle\obj\Debug\carizzle.dll
+C:\Users\ch shan\documents\visual studio 2013\Test\carizzle\carizzle\obj\Debug\carizzle.pdb
+F:\Work\carizzle\carizzle\bin\carizzle.dll.config
+F:\Work\carizzle\carizzle\bin\carizzle.dll
+F:\Work\carizzle\carizzle\bin\carizzle.pdb
+F:\Work\carizzle\carizzle\obj\Debug\carizzle.csprojResolveAssemblyReference.cache
+F:\Work\carizzle\carizzle\obj\Debug\carizzle.dll
+F:\Work\carizzle\carizzle\obj\Debug\carizzle.pdb
